@@ -48,7 +48,37 @@
 
  ------
 
- Пример детекции:
+# Подготовка к обучению
+
+Команды терминала для установки библиотек:
+
+```
+pip install ultralytics cv2 matplotlib calflops Pillow
+```
+
+Датасет:
+* https://www.aicrowd.com/challenges/airborne-object-tracking-challenge#dataset​
+* https://universe.roboflow.com/airborne-object-detection/airborne-object-detection-4-aod4/dataset/6
+
+Обучалась модель YOLO11n
+```
+from ultralytics import YOLO
+
+model = YOLO("yolo11n.pt")
+```
+------
+# Детекция
+
+```
+from ultralytics import YOLO
+
+model = YOLO("yolo11n-FlyingObjDet_ver5.pt")
+
+results = model(path, stream=True, save= True, verbose = False)
+```
+
+------
+ # Пример детекции:
  
  ![gif_detected_plane.gif](https://github.com/J1wZ/ML_assignment_6/blob/main/gif_detected_plane.gif)
 
