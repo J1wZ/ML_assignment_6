@@ -52,3 +52,8 @@
  
  ![gif_detected_plane.gif](https://github.com/J1wZ/ML_assignment_6/blob/main/gif_detected_plane.gif)
 
+
+ ![gif_detected_helicopter.gif](https://github.com/J1wZ/ML_assignment_6/blob/main/gif_detected_helicopter.gif)
+
+ 
+
