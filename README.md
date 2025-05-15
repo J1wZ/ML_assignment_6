@@ -56,6 +56,10 @@
 
 В репозитории загружены GIF-файлы с примерами детекции модели.
 
+Детальное описание работы и дополнительные улучшения в [FlyingObjDetection.ipynb](https://github.com/J1wZ/ML_assignment_6/blob/main/FlyingObjDetection.ipynb)
+
+[Презентация](https://github.com/J1wZ/ML_assignment_6/blob/main/ПирожковаАД_ML_Задание_6.pdf)
+
 -----
  
 # Подготовка к обучению
