@@ -45,3 +45,10 @@
  Время выполнения: 2—3 месяца
 
  [3] ЛА — летательный аппарат
+
+ ------
+
+ Пример детекции:
+ 
+ ![gif_detected_plane.gif](https://github.com/J1wZ/ML_assignment_6/blob/main/gif_detected_plane.gif)
+
